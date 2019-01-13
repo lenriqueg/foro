@@ -2,9 +2,9 @@
 
 namespace Tests\Unit;
 
-use Tests\TestCase;
+use Tests\FeatureTestCase;
 
-class ExampleTest extends TestCase
+class ExampleTest extends FeatureTestCase
 {
     function test_basic_example()
     {
